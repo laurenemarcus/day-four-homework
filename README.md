@@ -1,6 +1,7 @@
 INTRODUCTION
 ------------
-The Pizza Slicer app will determine the number of slices in a pizza based on the pizza's diameter and toppings.
+The Day Four Homework app was created by my son Walker and I. He came up with content and I designed the page. This app is intended for Melody (my wife and his mother) to complete as part of the homework packet he is creating for her.
+
 
 REQUIREMENTS
 ------------
@@ -13,7 +14,7 @@ Open the following file in directory to launch the app:
 
 KNOWN BUGS
 ---------
-No known bugs. We make the biggest pizzas in town!
+No known bugs.
 
 
 AUTHOR
